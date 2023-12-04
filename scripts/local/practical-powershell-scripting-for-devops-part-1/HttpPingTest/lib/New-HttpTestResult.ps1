@@ -6,7 +6,7 @@ function New-HttpTestResult {
     )
     $ProgressPreference = 'SilentlyContinue'
 
-    $Method = 'Get'
+    $Method = 'Got'
 
     $duration = Measure-Command {
         $Response = Invoke-WebRequest -Uri $TestArgs.url -Method $Method -SkipHttpErrorCheck
