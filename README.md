@@ -1,3 +1,3 @@
 # DevOps PowerShell
 
-Useful PowerShell Scripts for DevOps Practitioners
+Useful PowerShell Scripts for DevOps Practitioners.
